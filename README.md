@@ -1,6 +1,6 @@
 ## AM6016- Dynamic Machine Learning with Applications
 
-First assignment from the named course where the libraries tensorflow, keras, numpy and matplotlib were applied. 
+First assignment from the named course where the libraries tensorflow, keras, numpy, openCV and matplotlib were applied. 
 
 *the uploaded notebook is with previously ran code for immediate preview on GitHub, whereas the original task requested a Jupyter notebook with cleared output.
 
